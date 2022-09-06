@@ -31,15 +31,15 @@
             ],
             "styles": [
               "src/styles.css",
-              "assets/css/bootstrap.min.css",
-              "assets/css/lineicons.css",
-              "assets/css/animate.css",
-              "assets/css/main.css"
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/lineicons.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/main.css"
             ],
             "scripts": [
-              "assets/js/bootstrap.bundle.min.js",
-              "assets/js/wow.min.js",
-              "assets/js/main.js"
+              "src/assets/js/bootstrap.bundle.min.js",
+              "src/assets/js/wow.min.js",
+              "src/assets/js/main.js"
             ]
           },
           "configurations": {
